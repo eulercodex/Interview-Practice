@@ -25,6 +25,10 @@
 /* Begin PBXFileReference section */
 		5E95D2A622024A2500326723 /* Interview Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Interview Practice"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E95D2A922024A2500326723 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5E95D2B022024A5000326723 /* StringBuilder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = StringBuilder.cpp; sourceTree = "<group>"; };
+		5E95D2B12202520E00326723 /* ArrayList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ArrayList.cpp; sourceTree = "<group>"; };
+		5E95D2B222026FF600326723 /* HashTable.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HashTable.cpp; sourceTree = "<group>"; };
+		5E95D2B322028A4700326723 /* SinglyLinkedList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SinglyLinkedList.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,10 @@
 			isa = PBXGroup;
 			children = (
 				5E95D2A922024A2500326723 /* main.cpp */,
+				5E95D2B022024A5000326723 /* StringBuilder.cpp */,
+				5E95D2B12202520E00326723 /* ArrayList.cpp */,
+				5E95D2B222026FF600326723 /* HashTable.cpp */,
+				5E95D2B322028A4700326723 /* SinglyLinkedList.cpp */,
 			);
 			path = "Interview Practice";
 			sourceTree = "<group>";
